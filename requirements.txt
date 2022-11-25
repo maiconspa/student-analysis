@@ -8,3 +8,4 @@ numpy
 openpyxl
 jupyterlab
 matplotlib
+seaborn

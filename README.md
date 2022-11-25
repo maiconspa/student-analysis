@@ -6,14 +6,18 @@
 </div>
 
 ## Environment
-### Installing dependencies
-```pip install -r requirements.txt```
-
 ### Creating a Python virtualenv
 ```python3 -m venv venv```
 
 ### Activating virtualenv
 ```source ./venv/bin/activate```
 
+### Installing dependencies
+```python3 pip install -r requirements.txt```
+
 ### Launch JupyterLab with:
 ```jupyter-lab```
+
+
+## Codespaces
+Use GitHub Codespaces to rapidly access this work: https://github.com/codespaces
